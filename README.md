@@ -33,7 +33,6 @@ It serves as an introduction about me, showcasing my skills, certifications, goa
 
 ## 📷 Preview
 ![Portfolio Screenshot](screenshot.png)  
-*(You can replace this with an actual screenshot of your site once added to the repo)*  
 
 ---
 
