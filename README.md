@@ -27,7 +27,7 @@ It serves as an introduction about me, showcasing my skills, certifications, goa
 - **Certificates** – IBM AI Fundamentals, Python (Basic), and more  
 - **Goals** – My career aspirations in AI/ML  
 - **Projects** – Links to GitHub repositories  
-- **Contact** – Links to connect on LinkedIn  
+- **About** – Links to connect on LinkedIn  
 
 ---
 
